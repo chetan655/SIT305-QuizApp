@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz Mobile App</string>
+    <string name="titleName">SIT305 Quiz App</string>
+    <string name="startButtonName">Start</string>
+    <string name="nameTextView">Enter Your Name:</string>
+    <string name="editTextName">Name</string>
+    <string name="newQuizButtonText">New Quiz</string>
+    <string name="finishButtonText">Finish</string>
+    <string name="option1ButtonText">option 1</string>
+    <string name="option2ButtonText">option 2</string>
+    <string name="option3ButtonText">option 3</string>
+    <string name="nextButtonText">Next</string>
+</resources>
